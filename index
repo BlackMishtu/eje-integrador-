@@ -1,9 +1,12 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
 
-<head>EJE INTEGRADOR</head>
+<head>
+<title>EJE INTEGRADOR</title>
+</head>
 
 <body>
+<!--aqui un comentario-->
 	<h1 style="background-color:blueviolet;color:white;">pandemia de covid 19</h1>
 
 	<h2>efectos del aislamiento por la pandemia en las relaciones sociales</h2>
